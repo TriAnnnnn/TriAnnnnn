@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-![Mafu](img/mafu.gif)
+<p align="center">
+  <img src="img/mafu.gif" alt="mafu"/>
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=triannnnn&label=Profile%20views&color=0e75b6&style=flat" alt="triannnnn" /> </p>
 
 <h2 align="center">Hallo I'm M. Andino Apriliansah 😸</h2>
@@ -33,6 +36,9 @@ Here are some ideas to get you started:
 
 
 ### 📊 GitHub Stats:
+
+[![](https://github-readme-stats.vercel.app/api?username=TriAnnnnn)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-readme-stats.vercel.app/api?username=TriAnnnnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TriAnnnnn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TriAnnnnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -46,4 +52,22 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=TriAnnnnn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### Play Game With ME
+
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
